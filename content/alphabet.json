@@ -1,0 +1,223 @@
+{
+  "alphabet": [
+    {
+      "letter": "a",
+      "pronunciation": "alif",
+      "properties": {
+        "arabic": "ا"
+      }
+    },
+    {
+      "letter": "b",
+      "pronunciation": "baa",
+      "properties": {
+        "arabic": "ب"
+      }
+    },
+    {
+      "letter": "t",
+      "pronunciation": "taa",
+      "properties": {
+        "arabic": "ت"
+      }
+    },
+    {
+      "letter": "th",
+      "pronunciation": "thaa",
+      "properties": {
+        "arabic": "ث"
+      }
+    },
+    {
+      "letter": "j",
+      "pronunciation": "jeem",
+      "properties": {
+        "arabic": "ج"
+      }
+    },
+    {
+      "letter": "h",
+      "pronunciation": "haa",
+      "properties": {
+        "arabic": "ح"
+      }
+    },
+    {
+      "letter": "kh",
+      "pronunciation": "khaa",
+      "properties": {
+        "arabic": "خ"
+      }
+    },
+    {
+      "letter": "d",
+      "pronunciation": "dal",
+      "properties": {
+        "arabic": "د"
+      }
+    },
+    {
+      "letter": "dh",
+      "pronunciation": "dhal",
+      "properties": {
+        "arabic": "ذ"
+      }
+    },
+    {
+      "letter": "r",
+      "pronunciation": "ra",
+      "properties": {
+        "arabic": "ر"
+      }
+    },
+    {
+      "letter": "z",
+      "pronunciation": "zai",
+      "properties": {
+        "arabic": "ز"
+      }
+    },
+    {
+      "letter": "s",
+      "pronunciation": "seen",
+      "properties": {
+        "arabic": "س"
+      }
+    },
+    {
+      "letter": "sh",
+      "pronunciation": "sheen",
+      "properties": {
+        "arabic": "ش"
+      }
+    },
+    {
+      "letter": "s",
+      "pronunciation": "saad",
+      "properties": {
+        "arabic": "ص"
+      }
+    },
+    {
+      "letter": "d",
+      "pronunciation": "daad",
+      "properties": {
+        "arabic": "ض"
+      }
+    },
+    {
+      "letter": "t",
+      "pronunciation": "tah",
+      "properties": {
+        "arabic": "ط"
+      }
+    },
+    {
+      "letter": "dh",
+      "pronunciation": "thah",
+      "properties": {
+        "arabic": "ظ"
+      }
+    },
+    {
+      "letter": "a",
+      "pronunciation": "ayn",
+      "properties": {
+        "arabic": "ع"
+      }
+    },
+    {
+      "letter": "gh",
+      "pronunciation": "ghayn",
+      "properties": {
+        "arabic": "غ"
+      }
+    },
+    {
+      "letter": "f",
+      "pronunciation": "fa",
+      "properties": {
+        "arabic": "ف"
+      }
+    },
+    {
+      "letter": "q",
+      "pronunciation": "qaf",
+      "properties": {
+        "arabic": "ق"
+      }
+    },
+    {
+      "letter": "k",
+      "pronunciation": "kaf",
+      "properties": {
+        "arabic": "ك"
+      }
+    },
+    {
+      "letter": "l",
+      "pronunciation": "lam",
+      "properties": {
+        "arabic": "ل"
+      }
+    },
+    {
+      "letter": "m",
+      "pronunciation": "mim",
+      "properties": {
+        "arabic": "م"
+      }
+    },
+    {
+      "letter": "n",
+      "pronunciation": "nun",
+      "properties": {
+        "arabic": "ن"
+      }
+    },
+    {
+      "letter": "h",
+      "pronunciation": "ha",
+      "properties": {
+        "arabic": "ه"
+      }
+    },
+    {
+      "letter": "w",
+      "pronunciation": "waw",
+      "properties": {
+        "arabic": "و"
+      }
+    },
+    {
+      "letter": "y",
+      "pronunciation": "yaa",
+      "properties": {
+        "arabic": "ي"
+      }
+    }
+      ],
+      "harakaat": [
+        {
+          "type": "Fathah",
+          "properties": {
+            "addition": "a",
+            "arabic": "َ"
+          }
+        },
+        {
+          "type": "Kasrah",
+          "properties": {
+            "addition": "i",
+            "arabic": "ِ"
+          }
+        },
+        {
+          "type": "Dammah",
+          "properties": {
+            "addition": "u",
+            "arabic": "ُ"
+          }
+        }
+      ]
+    }

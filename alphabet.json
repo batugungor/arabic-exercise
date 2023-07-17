@@ -1,0 +1,69 @@
+{
+  "alphabet": [
+    {
+      "letter": "b",
+      "pronunciation": "baa",
+      "properties": {
+        "arabic": "ب"
+      }
+    },
+    {
+      "letter": "t",
+      "pronunciation": "taa",
+      "properties": {
+        "arabic": "ت"
+      }
+    },
+    {
+      "letter": "th",
+      "pronunciation": "thaa",
+      "properties": {
+        "arabic": "ث"
+      }
+    },
+    {
+      "letter": "j",
+      "pronunciation": "jeem",
+      "properties": {
+        "arabic": "ج"
+      }
+    },
+    {
+      "letter": "h",
+      "pronunciation": "haa",
+      "properties": {
+        "arabic": "ح"
+      }
+    },
+    {
+      "letter": "kh",
+      "pronunciation": "khaa",
+      "properties": {
+        "arabic": "خ"
+      }
+    }
+  ],
+  "harakaat": [
+    {
+      "type": "Fathah",
+      "properties": {
+        "addition":"a",
+        "arabic": "َ"
+      }
+    },
+    {
+      "type": "Kasrah",
+      "properties": {
+        "addition": "i",
+        "arabic": "ِ"
+      }
+    },
+    {
+      "type": "Dammah",
+      "properties": {
+        "addition": "u",
+        "arabic": "ُ"
+      }
+    }
+  ]
+}
